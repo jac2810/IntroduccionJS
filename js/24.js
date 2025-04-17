@@ -1,6 +1,6 @@
 //FOR LOOP
 
-/* for( let i = 0; i <= 10; i++) {
+for( let i = 0; i <= 10; i++) {
     console.log(i)
 }
 
@@ -11,7 +11,7 @@ for( let i = 0; i <= 100; i++) {
         console.log(`El numero ${i} es IMPAR`);
     }
     
-} */
+}
 
 const carrito = [
     {nombre: 'Monitor 20 Pulgadas', precio: 500},

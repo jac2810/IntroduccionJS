@@ -1,7 +1,9 @@
 function obtenerEmpleados(){
     
     
-    'empleados.json'
+   const archivo = 'empleados.json';
+
+   fetch(archivo)
 }
 
 obtenerEmpleados();
